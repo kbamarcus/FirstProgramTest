@@ -7,6 +7,9 @@ public class FirstProgram {
             System.out.println("Hello World!");
             
             System.out.println("Just another hello for the world!");
+            
+            
+            int x = 10;
     }
     
 }
